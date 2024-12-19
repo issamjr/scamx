@@ -63,6 +63,7 @@ Once installed, ScamX provides a user-friendly interface for creating fake pages
 ## Contact
 For support or inquiries, you can reach out to:
 - **Telegram**: [https://t.me/how_tohack](https://t.me/how_tohack)
+-  **Telegram**: [https://t.me/issamiso](https://t.me/issamiso)
 - **Website**: [https://fkpage.site](https://fkpage.site)
 
 ---
