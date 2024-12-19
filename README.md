@@ -58,24 +58,6 @@ Ensure you have the following installed:
 
 ## Usage
 Once installed, ScamX provides a user-friendly interface for creating fake pages. Follow the on-screen instructions to generate and manage your fake pages effortlessly.
-
----
-
-## Built With
-ScamX is built on the reliable [FKPage API](https://fkpage.site). This API ensures seamless communication and efficient functionality for the tool.
-
-Learn more about the FKPage API by visiting their official website: [https://fkpage.site](https://fkpage.site).
-
----
-
-## Disclaimer
-ScamX is for educational purposes only. The developers are not responsible for any misuse of this tool. Ensure you use it ethically and within legal boundaries.
-
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 ---
 
 ## Contact
@@ -85,5 +67,4 @@ For support or inquiries, you can reach out to:
 
 ---
 
-Start using ScamX today and explore its capabilities!
 
