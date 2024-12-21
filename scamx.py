@@ -219,7 +219,7 @@ class scamer:
             )
         try:
             print()
-            ss = input(f'{BOLD_BLUE}[*]{BOLD_GREEN} Clike To Back ...')
+            ss = input(f'{BOLD_BLUE}[*]{BOLD_GREEN} click to back ...')
         except KeyboardInterrupt:
             sys.exit()
 
@@ -256,7 +256,7 @@ class scamer:
             print_status(BG_RED+ str(e)+RESET)
         try:
             print()
-            ss = input(f'{BOLD_BLUE}[*]{BOLD_GREEN} Clike To Back ...')
+            ss = input(f'{BOLD_BLUE}[*]{BOLD_GREEN} click to back ...')
         except KeyboardInterrupt:
             sys.exit()
 
