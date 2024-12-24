@@ -213,10 +213,10 @@ class scamer:
                 sts = "0" + str(kk)
             rem_url = i.replace('https://gamedarkmod.site/','')
             new_name = rem_url.split('/')[0].strip()
-            
-            print_status(
-                f"{BOLD_GREEN}{BG_RED}{new_name}{RESET}   {BOLD_CYAN}link:{BOLD_PURPLE} {i}"
-            )
+            if "web/" not in i:
+                print_status(
+                    f"{BOLD_GREEN}{BG_RED}{new_name}{RESET}   {BOLD_CYAN}link:{BOLD_PURPLE} {i}"
+                )
         try:
             print()
             ss = input(f'{BOLD_BLUE}[*]{BOLD_GREEN} click to back ...')
