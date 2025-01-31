@@ -211,7 +211,7 @@ class scamer:
             sts = str(kk)
             if kk < 10:
                 sts = "0" + str(kk)
-            rem_url = i.replace('https://pink-locust-923636.hostingersite.com/','')
+            rem_url = i.replace('https://lightcoral-lobster-205213.hostingersite.com/','')
             new_name = rem_url.split('/')[0].strip()
             if "web/" not in i:
                 print_status(
